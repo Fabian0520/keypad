@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name keyboard_parts)(type KiCad)(uri C:/Users/Röntgen-PC/Documents/Projekte/kicad/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name keebs)(type KiCad)(uri C:/Users/Röntgen-PC/Documents/Projekte/kicad/keebs.pretty-master)(options "")(descr ""))
+)
