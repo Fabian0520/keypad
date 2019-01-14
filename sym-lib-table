@@ -1,4 +1,10 @@
 (sym_lib_table
-  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/Röntgen-PC/Documents/Projekte/kicad/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
-  (lib (name mkl27z256vfm4)(type Legacy)(uri C:/Users/Röntgen-PC/Documents/Projekte/kicad/kicad_lib_tmk-master/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri /home/fabian/PCBs/libraries/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri /home/fabian/PCBs/libraries/kicad_lib_tmk/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name fabis_keyboard_lib)(type Legacy)(uri /home/fabian/PCBs/libraries/fabis_keyboard_lib.lib)(options "")(descr ""))
+  (lib (name BAS70TW-7-F)(type Legacy)(uri /home/fabian/PCBs/libraries/BAS70TW-7-F/KiCad/BAS70TW-7-F.lib)(options "")(descr ""))
+  (lib (name IS31FL3733-TQLS4)(type Legacy)(uri ${KIPRJMOD}/IS31FL3733-TQLS4/KiCad/IS31FL3733-TQLS4.lib)(options "")(descr ""))
+  (lib (name keebio)(type Legacy)(uri /home/fabian/PCBs/libs/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name smd_switch)(type Legacy)(uri /home/fabian/PCBs/keypad/smd_switch.lib)(options "")(descr ""))
+  (lib (name dk_USB-DVI-HDMI-Connectors)(type Legacy)(uri /home/fabian/PCBs/libs/digikey-kicad-library/digikey-symbols/dk_USB-DVI-HDMI-Connectors.lib)(options "")(descr ""))
 )
