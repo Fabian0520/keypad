@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name fabis_keyboard_lib)(type Legacy)(uri /home/fabian/PCBs/libraries/fabis_keyboard_lib.lib)(options "")(descr ""))
-  (lib (name mkl27z256vfm4)(type Legacy)(uri /home/fabian/PCBs/libraries/kicad_lib_tmk/mkl27z256vfm4.lib)(options "")(descr ""))
-  (lib (name keyboard_parts)(type Legacy)(uri /home/fabian/PCBs/libraries/kicad_lib_tmk/keyboard_parts.lib)(options "")(descr ""))
-)

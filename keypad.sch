@@ -445,10 +445,6 @@ Wire Wire Line
 Wire Wire Line
 	3900 4650 3900 4600
 Wire Wire Line
-	4200 4650 3900 4650
-Wire Wire Line
-	4200 4600 4200 4650
-Wire Wire Line
 	4900 3900 4800 3900
 Wire Wire Line
 	4900 3800 4900 3900
@@ -466,7 +462,7 @@ U 1 1 5C37B7CB
 P 4200 3700
 F 0 "J4" H 4305 4567 50  0000 C CNN
 F 1 "USB_C_Receptacle_USB2.0" H 4305 4476 50  0000 C CNN
-F 2 "Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A_CircularHoles" H 4350 3700 50  0001 C CNN
+F 2 "USB_C:Wuerth USB3.1 Type C Receptacle - Horizontal" H 4350 3700 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 4350 3700 50  0001 C CNN
 	1    4200 3700
 	1    0    0    -1  
@@ -535,9 +531,6 @@ Wire Wire Line
 Wire Wire Line
 	5850 4700 6500 4700
 Connection ~ 4900 3800
-Wire Wire Line
-	4200 4650 4200 4900
-Connection ~ 4200 4650
 Wire Wire Line
 	4200 4900 6550 4900
 $Comp
@@ -726,4 +719,6 @@ Wire Wire Line
 Connection ~ 6500 4700
 Wire Wire Line
 	6500 4700 6600 4700
+Wire Wire Line
+	4200 4600 4200 4900
 $EndSCHEMATC

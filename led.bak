@@ -1112,17 +1112,6 @@ NoConn ~ 3500 1950
 NoConn ~ 2600 1950
 NoConn ~ 9800 4650
 $Comp
-L LED:SK6805 D12
-U 1 1 5C2D0E89
-P 1450 6050
-F 0 "D12" H 1791 6096 50  0000 L CNN
-F 1 "SK6805" H 1791 6005 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 1500 5750 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 1550 5675 50  0001 L TNN
-	1    1450 6050
-	1    0    0    -1  
-$EndComp
-$Comp
 L LED:SK6805 D13
 U 1 1 5C2D0F9C
 P 2300 5600
@@ -1145,17 +1134,6 @@ F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 3200
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6805 D15
-U 1 1 5C2D123C
-P 3850 5600
-F 0 "D15" H 4191 5646 50  0000 L CNN
-F 1 "SK6805" H 4191 5555 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 3900 5300 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 3950 5225 50  0001 L TNN
-	1    3850 5600
-	1    0    0    -1  
-$EndComp
-$Comp
 L LED:SK6805 D16
 U 1 1 5C2D1243
 P 4650 6050
@@ -1164,17 +1142,6 @@ F 1 "SK6805" H 4991 6005 50  0000 L CNN
 F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 4700 5750 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 4750 5675 50  0001 L TNN
 	1    4650 6050
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:SK6805 D17
-U 1 1 5C2D124A
-P 5300 5600
-F 0 "D17" H 5641 5646 50  0000 L CNN
-F 1 "SK6805" H 5641 5555 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 5350 5300 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 5400 5225 50  0001 L TNN
-	1    5300 5600
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1189,28 +1156,6 @@ F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 6100
 	1    0    0    -1  
 $EndComp
 $Comp
-L LED:SK6805 D19
-U 1 1 5C3202DC
-P 6650 5600
-F 0 "D19" H 6991 5646 50  0000 L CNN
-F 1 "SK6805" H 6991 5555 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 6700 5300 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 6750 5225 50  0001 L TNN
-	1    6650 5600
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:SK6805 D20
-U 1 1 5C3202E3
-P 7250 6050
-F 0 "D20" H 7591 6096 50  0000 L CNN
-F 1 "SK6805" H 7591 6005 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 7300 5750 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 7350 5675 50  0001 L TNN
-	1    7250 6050
-	1    0    0    -1  
-$EndComp
-$Comp
 L LED:SK6805 D21
 U 1 1 5C3202EA
 P 7850 5600
@@ -1219,17 +1164,6 @@ F 1 "SK6805" H 8191 5555 50  0000 L CNN
 F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 7900 5300 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 7950 5225 50  0001 L TNN
 	1    7850 5600
-	1    0    0    -1  
-$EndComp
-$Comp
-L LED:SK6805 D22
-U 1 1 5C3202F1
-P 8450 6050
-F 0 "D22" H 8791 6096 50  0000 L CNN
-F 1 "SK6805" H 8791 6005 50  0000 L CNN
-F 2 "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm" H 8500 5750 50  0001 L TNN
-F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 8550 5675 50  0001 L TNN
-	1    8450 6050
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -1244,77 +1178,17 @@ F 3 "https://cdn-shop.adafruit.com/product-files/3484/3484_Datasheet.pdf" H 9200
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	1750 6050 1800 6050
-Wire Wire Line
-	1800 6050 1800 5600
-Wire Wire Line
-	1800 5600 2000 5600
-Wire Wire Line
 	2600 5600 2700 5600
 Wire Wire Line
 	2700 5600 2700 6050
 Wire Wire Line
 	2700 6050 2800 6050
 Wire Wire Line
-	3400 6050 3500 6050
-Wire Wire Line
-	3500 6050 3500 5600
-Wire Wire Line
-	3500 5600 3550 5600
-Wire Wire Line
-	4150 5600 4250 5600
-Wire Wire Line
-	4250 5600 4250 6050
-Wire Wire Line
-	4250 6050 4350 6050
-Wire Wire Line
-	4950 6050 4950 5600
-Wire Wire Line
-	4950 5600 5000 5600
-Wire Wire Line
-	5600 5600 5650 5600
-Wire Wire Line
-	5650 5600 5650 6050
-Wire Wire Line
-	5650 6050 5700 6050
-Wire Wire Line
-	6300 6050 6300 5600
-Wire Wire Line
-	6300 5600 6350 5600
-Wire Wire Line
-	6950 5600 6950 6050
-Wire Wire Line
-	7550 6050 7550 5600
-Wire Wire Line
-	8150 5600 8150 6050
-Wire Wire Line
 	2300 5300 3100 5300
-Wire Wire Line
-	5300 5300 6000 5300
-Wire Wire Line
-	7850 5300 7250 5300
-Connection ~ 6650 5300
-Wire Wire Line
-	7850 5300 8450 5300
 Connection ~ 7850 5300
-Wire Wire Line
-	3850 5300 4650 5300
-Connection ~ 3850 5300
-Connection ~ 5300 5300
-Wire Wire Line
-	1450 6350 2300 6350
-Wire Wire Line
-	3100 6350 3850 6350
 Connection ~ 3100 6350
-Wire Wire Line
-	4650 6350 5300 6350
 Connection ~ 4650 6350
-Wire Wire Line
-	6000 6350 6650 6350
 Connection ~ 6000 6350
-Wire Wire Line
-	7250 6350 7850 6350
-Connection ~ 7250 6350
 $Comp
 L power:GND #PWR0131
 U 1 1 5C53EF38
@@ -1326,80 +1200,28 @@ F 3 "" H 1050 6350 50  0001 C CNN
 	1    1050 6350
 	0    1    1    0   
 $EndComp
-Wire Wire Line
-	1050 5300 1450 5300
 Connection ~ 2300 5300
-Wire Wire Line
-	1050 6350 1450 6350
-Connection ~ 1450 6350
 Text HLabel 1050 6050 0    50   Input ~ 0
 UGLOW_LED
-Wire Wire Line
-	1050 6050 1150 6050
-Wire Wire Line
-	8750 6050 8750 5600
-Wire Wire Line
-	8750 5600 8800 5600
-Wire Wire Line
-	7250 5750 7250 5300
-Connection ~ 7250 5300
-Wire Wire Line
-	7250 5300 6650 5300
-Wire Wire Line
-	8450 5750 8450 5300
-Connection ~ 8450 5300
-Wire Wire Line
-	8450 5300 9100 5300
 Wire Wire Line
 	6000 5750 6000 5300
 Connection ~ 6000 5300
 Wire Wire Line
-	6000 5300 6650 5300
-Wire Wire Line
 	4650 5750 4650 5300
 Connection ~ 4650 5300
 Wire Wire Line
-	4650 5300 5300 5300
-Wire Wire Line
 	3100 5750 3100 5300
 Connection ~ 3100 5300
-Wire Wire Line
-	3100 5300 3850 5300
-Wire Wire Line
-	1450 5750 1450 5300
-Connection ~ 1450 5300
-Wire Wire Line
-	1450 5300 2300 5300
 Wire Wire Line
 	2300 5900 2300 6350
 Connection ~ 2300 6350
 Wire Wire Line
 	2300 6350 3100 6350
 Wire Wire Line
-	3850 5900 3850 6350
-Connection ~ 3850 6350
-Wire Wire Line
-	3850 6350 4650 6350
-Wire Wire Line
-	5300 5900 5300 6350
-Connection ~ 5300 6350
-Wire Wire Line
-	5300 6350 6000 6350
-Wire Wire Line
-	6650 5900 6650 6350
-Connection ~ 6650 6350
-Wire Wire Line
-	6650 6350 7250 6350
-Wire Wire Line
 	7850 5900 7850 6350
 Connection ~ 7850 6350
 Wire Wire Line
-	7850 6350 8450 6350
-Wire Wire Line
-	8450 6350 9100 6350
-Wire Wire Line
 	9100 6350 9100 5900
-Connection ~ 8450 6350
 $Comp
 L Device:C C18
 U 1 1 5C3596E3
@@ -1543,4 +1365,42 @@ F 3 "" H 1050 5300 60  0000 C CNN
 	1    1050 5300
 	0    -1   -1   0   
 $EndComp
+Wire Wire Line
+	4650 5300 6000 5300
+Wire Wire Line
+	7850 6350 9100 6350
+Wire Wire Line
+	4650 6350 6000 6350
+Wire Wire Line
+	7850 5300 9100 5300
+Wire Wire Line
+	3100 5300 4650 5300
+Wire Wire Line
+	1050 6350 2300 6350
+Wire Wire Line
+	6000 5300 7850 5300
+Wire Wire Line
+	6000 6350 7850 6350
+Wire Wire Line
+	3100 6350 4650 6350
+Wire Wire Line
+	1050 5300 2300 5300
+Wire Wire Line
+	1550 6050 1550 5600
+Wire Wire Line
+	1550 5600 2000 5600
+Wire Wire Line
+	1050 6050 1550 6050
+Wire Wire Line
+	3400 6050 4350 6050
+Wire Wire Line
+	4950 6050 5700 6050
+Wire Wire Line
+	6300 6050 7200 6050
+Wire Wire Line
+	7200 6050 7200 5600
+Wire Wire Line
+	7200 5600 7550 5600
+Wire Wire Line
+	8150 5600 8800 5600
 $EndSCHEMATC
