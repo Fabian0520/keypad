@@ -45,8 +45,8 @@ L Device:D_x2_KCom_AAK D?
 U 1 1 5D7480F9
 P 3300 3850
 AR Path="/5D7480F9" Ref="D?"  Part="1" 
-AR Path="/5D7467E1/5D7480F9" Ref="D1"  Part="1" 
-F 0 "D1" V 3254 3929 50  0000 L CNN
+AR Path="/5D7467E1/5D7480F9" Ref="D2"  Part="1" 
+F 0 "D2" V 3254 3929 50  0000 L CNN
 F 1 "D_x2_KCom_AAK" V 3345 3929 50  0000 L CNN
 F 2 "keyboard_parts:SOT23-3_HSOL" H 3300 3850 50  0001 C CNN
 F 3 "~" H 3300 3850 50  0001 C CNN
@@ -84,8 +84,8 @@ L Device:D_x2_KCom_AAK D?
 U 1 1 5D748114
 P 4250 3850
 AR Path="/5D748114" Ref="D?"  Part="1" 
-AR Path="/5D7467E1/5D748114" Ref="D2"  Part="1" 
-F 0 "D2" V 4204 3929 50  0000 L CNN
+AR Path="/5D7467E1/5D748114" Ref="D5"  Part="1" 
+F 0 "D5" V 4204 3929 50  0000 L CNN
 F 1 "D_x2_KCom_AAK" V 4295 3929 50  0000 L CNN
 F 2 "keyboard_parts:SOT23-3_HSOL" H 4250 3850 50  0001 C CNN
 F 3 "~" H 4250 3850 50  0001 C CNN
@@ -123,8 +123,8 @@ L Device:D_x2_KCom_AAK D?
 U 1 1 5D74812F
 P 5200 3850
 AR Path="/5D74812F" Ref="D?"  Part="1" 
-AR Path="/5D7467E1/5D74812F" Ref="D3"  Part="1" 
-F 0 "D3" V 5154 3929 50  0000 L CNN
+AR Path="/5D7467E1/5D74812F" Ref="D8"  Part="1" 
+F 0 "D8" V 5154 3929 50  0000 L CNN
 F 1 "D_x2_KCom_AAK" V 5245 3929 50  0000 L CNN
 F 2 "keyboard_parts:SOT23-3_HSOL" H 5200 3850 50  0001 C CNN
 F 3 "~" H 5200 3850 50  0001 C CNN
@@ -166,8 +166,8 @@ L Device:D_x2_KCom_AAK D?
 U 1 1 5D74814A
 P 6150 3850
 AR Path="/5D74814A" Ref="D?"  Part="1" 
-AR Path="/5D7467E1/5D74814A" Ref="D4"  Part="1" 
-F 0 "D4" V 6104 3929 50  0000 L CNN
+AR Path="/5D7467E1/5D74814A" Ref="D11"  Part="1" 
+F 0 "D11" V 6104 3929 50  0000 L CNN
 F 1 "D_x2_KCom_AAK" V 6195 3929 50  0000 L CNN
 F 2 "keyboard_parts:SOT23-3_HSOL" H 6150 3850 50  0001 C CNN
 F 3 "~" H 6150 3850 50  0001 C CNN
@@ -175,10 +175,10 @@ F 3 "~" H 6150 3850 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K1_?
+L keyboard_parts:KEYSW K3_?
 U 1 1 5C226E88
 P 2950 4800
-AR Path="/5C226E88" Ref="K1_?"  Part="1" 
+AR Path="/5C226E88" Ref="K3_?"  Part="1" 
 AR Path="/5D7467E1/5C226E88" Ref="K3_1"  Part="1" 
 F 0 "K3_1" H 2950 5033 60  0000 C CNN
 F 1 "KEYSW" H 2950 4700 60  0001 C CNN
@@ -188,10 +188,10 @@ F 3 "" H 2950 4800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2_?
+L keyboard_parts:KEYSW K4_?
 U 1 1 5C226E8F
 P 2950 5500
-AR Path="/5C226E8F" Ref="K2_?"  Part="1" 
+AR Path="/5C226E8F" Ref="K4_?"  Part="1" 
 AR Path="/5D7467E1/5C226E8F" Ref="K4_1"  Part="1" 
 F 0 "K4_1" H 2950 5733 60  0000 C CNN
 F 1 "KEYSW" H 2950 5400 60  0001 C CNN
@@ -205,8 +205,8 @@ L Device:D_x2_KCom_AAK D?
 U 1 1 5C226E98
 P 3300 5150
 AR Path="/5C226E98" Ref="D?"  Part="1" 
-AR Path="/5D7467E1/5C226E98" Ref="D5"  Part="1" 
-F 0 "D5" V 3254 5229 50  0000 L CNN
+AR Path="/5D7467E1/5C226E98" Ref="D3"  Part="1" 
+F 0 "D3" V 3254 5229 50  0000 L CNN
 F 1 "D_x2_KCom_AAK" V 3345 5229 50  0000 L CNN
 F 2 "keyboard_parts:SOT23-3_HSOL" H 3300 5150 50  0001 C CNN
 F 3 "~" H 3300 5150 50  0001 C CNN
@@ -214,10 +214,10 @@ F 3 "~" H 3300 5150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K1_?
+L keyboard_parts:KEYSW K3_?
 U 1 1 5C226EA3
 P 3900 4800
-AR Path="/5C226EA3" Ref="K1_?"  Part="1" 
+AR Path="/5C226EA3" Ref="K3_?"  Part="1" 
 AR Path="/5D7467E1/5C226EA3" Ref="K3_2"  Part="1" 
 F 0 "K3_2" H 3900 5033 60  0000 C CNN
 F 1 "KEYSW" H 3900 4700 60  0001 C CNN
@@ -227,10 +227,10 @@ F 3 "" H 3900 4800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2_?
+L keyboard_parts:KEYSW K4_?
 U 1 1 5C226EAA
 P 3900 5500
-AR Path="/5C226EAA" Ref="K2_?"  Part="1" 
+AR Path="/5C226EAA" Ref="K4_?"  Part="1" 
 AR Path="/5D7467E1/5C226EAA" Ref="K4_2"  Part="1" 
 F 0 "K4_2" H 3900 5733 60  0000 C CNN
 F 1 "KEYSW" H 3900 5400 60  0001 C CNN
@@ -253,10 +253,10 @@ F 3 "~" H 4250 5150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K1_?
+L keyboard_parts:KEYSW K3_?
 U 1 1 5C226EBE
 P 4850 4800
-AR Path="/5C226EBE" Ref="K1_?"  Part="1" 
+AR Path="/5C226EBE" Ref="K3_?"  Part="1" 
 AR Path="/5D7467E1/5C226EBE" Ref="K3_3"  Part="1" 
 F 0 "K3_3" H 4850 5033 60  0000 C CNN
 F 1 "KEYSW" H 4850 4700 60  0001 C CNN
@@ -266,10 +266,10 @@ F 3 "" H 4850 4800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2_?
+L keyboard_parts:KEYSW K4_?
 U 1 1 5C226EC5
 P 4850 5500
-AR Path="/5C226EC5" Ref="K2_?"  Part="1" 
+AR Path="/5C226EC5" Ref="K4_?"  Part="1" 
 AR Path="/5D7467E1/5C226EC5" Ref="K4_3"  Part="1" 
 F 0 "K4_3" H 4850 5733 60  0000 C CNN
 F 1 "KEYSW" H 4850 5400 60  0001 C CNN
@@ -283,8 +283,8 @@ L Device:D_x2_KCom_AAK D?
 U 1 1 5C226ECE
 P 5200 5150
 AR Path="/5C226ECE" Ref="D?"  Part="1" 
-AR Path="/5D7467E1/5C226ECE" Ref="D7"  Part="1" 
-F 0 "D7" V 5154 5229 50  0000 L CNN
+AR Path="/5D7467E1/5C226ECE" Ref="D9"  Part="1" 
+F 0 "D9" V 5154 5229 50  0000 L CNN
 F 1 "D_x2_KCom_AAK" V 5245 5229 50  0000 L CNN
 F 2 "keyboard_parts:SOT23-3_HSOL" H 5200 5150 50  0001 C CNN
 F 3 "~" H 5200 5150 50  0001 C CNN
@@ -292,10 +292,10 @@ F 3 "~" H 5200 5150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K1_?
+L keyboard_parts:KEYSW K3_?
 U 1 1 5C226ED9
 P 5800 4800
-AR Path="/5C226ED9" Ref="K1_?"  Part="1" 
+AR Path="/5C226ED9" Ref="K3_?"  Part="1" 
 AR Path="/5D7467E1/5C226ED9" Ref="K3_4"  Part="1" 
 F 0 "K3_4" H 5800 5033 60  0000 C CNN
 F 1 "KEYSW" H 5800 4700 60  0001 C CNN
@@ -305,10 +305,10 @@ F 3 "" H 5800 4800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2_?
+L keyboard_parts:KEYSW K4_?
 U 1 1 5C226EE0
 P 5800 5500
-AR Path="/5C226EE0" Ref="K2_?"  Part="1" 
+AR Path="/5C226EE0" Ref="K4_?"  Part="1" 
 AR Path="/5D7467E1/5C226EE0" Ref="K4_4"  Part="1" 
 F 0 "K4_4" H 5800 5733 60  0000 C CNN
 F 1 "KEYSW" H 5800 5400 60  0001 C CNN
@@ -326,8 +326,8 @@ L Device:D_x2_KCom_AAK D?
 U 1 1 5C226EFD
 P 6150 5150
 AR Path="/5C226EFD" Ref="D?"  Part="1" 
-AR Path="/5D7467E1/5C226EFD" Ref="D8"  Part="1" 
-F 0 "D8" V 6104 5229 50  0000 L CNN
+AR Path="/5D7467E1/5C226EFD" Ref="D12"  Part="1" 
+F 0 "D12" V 6104 5229 50  0000 L CNN
 F 1 "D_x2_KCom_AAK" V 6195 5229 50  0000 L CNN
 F 2 "keyboard_parts:SOT23-3_HSOL" H 6150 5150 50  0001 C CNN
 F 3 "~" H 6150 5150 50  0001 C CNN
@@ -335,10 +335,10 @@ F 3 "~" H 6150 5150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2_?
+L keyboard_parts:KEYSW K5_?
 U 1 1 5C2280A4
 P 2950 5950
-AR Path="/5C2280A4" Ref="K2_?"  Part="1" 
+AR Path="/5C2280A4" Ref="K5_?"  Part="1" 
 AR Path="/5D7467E1/5C2280A4" Ref="K5_1"  Part="1" 
 F 0 "K5_1" H 2950 6183 60  0000 C CNN
 F 1 "KEYSW" H 2950 5850 60  0001 C CNN
@@ -348,10 +348,10 @@ F 3 "" H 2950 5950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2_?
+L keyboard_parts:KEYSW K5_?
 U 1 1 5C2280AD
 P 3900 5950
-AR Path="/5C2280AD" Ref="K2_?"  Part="1" 
+AR Path="/5C2280AD" Ref="K5_?"  Part="1" 
 AR Path="/5D7467E1/5C2280AD" Ref="K5_2"  Part="1" 
 F 0 "K5_2" H 3900 6183 60  0000 C CNN
 F 1 "KEYSW" H 3900 5850 60  0001 C CNN
@@ -361,10 +361,10 @@ F 3 "" H 3900 5950 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L keyboard_parts:KEYSW K2_?
+L keyboard_parts:KEYSW K5_?
 U 1 1 5C2280B6
 P 4850 5950
-AR Path="/5C2280B6" Ref="K2_?"  Part="1" 
+AR Path="/5C2280B6" Ref="K5_?"  Part="1" 
 AR Path="/5D7467E1/5C2280B6" Ref="K5_3"  Part="1" 
 F 0 "K5_3" H 4850 6183 60  0000 C CNN
 F 1 "KEYSW" H 4850 5850 60  0001 C CNN
@@ -376,10 +376,10 @@ $EndComp
 Text GLabel 2400 5750 0    50   Input ~ 0
 Row5
 $Comp
-L Device:D D9
+L Device:D D4
 U 1 1 5C23AFF6
 P 3500 5750
-F 0 "D9" V 3546 5671 50  0000 R CNN
+F 0 "D4" V 3546 5671 50  0000 R CNN
 F 1 "D" V 3455 5671 50  0000 R CNN
 F 2 "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3500 5750 50  0001 C CNN
 F 3 "~" H 3500 5750 50  0001 C CNN
@@ -387,10 +387,10 @@ F 3 "~" H 3500 5750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:D D10
+L Device:D D7
 U 1 1 5C23B15A
 P 4450 5750
-F 0 "D10" V 4496 5671 50  0000 R CNN
+F 0 "D7" V 4496 5671 50  0000 R CNN
 F 1 "D" V 4405 5671 50  0000 R CNN
 F 2 "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4450 5750 50  0001 C CNN
 F 3 "~" H 4450 5750 50  0001 C CNN
@@ -398,10 +398,10 @@ F 3 "~" H 4450 5750 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:D D11
+L Device:D D10
 U 1 1 5C23C6A4
 P 5400 5750
-F 0 "D11" V 5446 5671 50  0000 R CNN
+F 0 "D10" V 5446 5671 50  0000 R CNN
 F 1 "D" V 5355 5671 50  0000 R CNN
 F 2 "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5400 5750 50  0001 C CNN
 F 3 "~" H 5400 5750 50  0001 C CNN
