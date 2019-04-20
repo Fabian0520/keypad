@@ -1,4 +1,4 @@
-update=Thu 10 Jan 2019 03:51:28 PM CET
+update=Sat 20 Apr 2019 01:00:03 PM CEST
 version=1
 last_client=kicad
 [general]
@@ -31,3 +31,13 @@ SolderMaskMinWidth=0.25
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.2
 ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1

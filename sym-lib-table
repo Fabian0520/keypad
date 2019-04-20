@@ -8,4 +8,5 @@
   (lib (name smd_switch)(type Legacy)(uri /home/fabian/PCBs/keypad/smd_switch.lib)(options "")(descr ""))
   (lib (name dk_USB-DVI-HDMI-Connectors)(type Legacy)(uri /home/fabian/PCBs/libs/digikey-kicad-library/digikey-symbols/dk_USB-DVI-HDMI-Connectors.lib)(options "")(descr ""))
   (lib (name keypad)(type Legacy)(uri /home/fabian/PCBs/keypad/keypad.lib)(options "")(descr ""))
+  (lib (name keypad-rescue)(type Legacy)(uri ${KIPRJMOD}/keypad-rescue.lib)(options "")(descr ""))
 )
